@@ -1,0 +1,3 @@
+Validation Loss: 0.3869
+Validation IoU: 0.5124
+Validation Dice: 0.6755
